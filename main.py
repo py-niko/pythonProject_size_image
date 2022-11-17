@@ -1,6 +1,6 @@
 from PIL import Image
 
-im = Image.open('new_year.jpg')
+im = Image.open('univrs.jpg')
 width = im.size[0]
 height = im.size[1]
 
